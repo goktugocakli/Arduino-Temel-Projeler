@@ -5,7 +5,6 @@ Bu repository, Arduino platformunu kullanarak geliştirdiğim temel projelerin k
 ## Projeler
 
 - [LED Yakma](https://github.com/kullaniciadi/proje1): Basit bir devre ve Arduino kodu kullanarak bir LED'i yakmayı gösterir.
-- [Sesli Uyarı Sistemi](https://github.com/kullaniciadi/proje2): Bir butona basıldığında sesli bir uyarı sesi çıkaran bir devre ve Arduino kodu içerir.
 - [Potansiyometre Kontrollü Servo](https://github.com/kullaniciadi/proje3): Potansiyometrenin değerine bağlı olarak servo motoru kontrol eden bir devre ve Arduino kodu içerir.
 
 ## Nasıl Kullanılır
